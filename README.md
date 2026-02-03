@@ -14,7 +14,7 @@ Acredito que a IA será cada vez mais essencial para soluções modernas de segu
 ---
 
 ## 🔐 Formação
-- 🎓 Bacharelado em Segurança Cibernética — **4º semestre**
+- 🎓 Tecnólogo em Segurança Cibernética — **4º semestre**
 - 📚 Estudo contínuo em Inteligência Artificial e Automação
 - 🛠️ Aprendizado prático através de projetos reais
 
