@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou Paula Sabino
 
-<!--
-**Paula-Tech007/Paula-Tech007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou universitária de **Segurança Cibernética**, atualmente no **4º semestre**, com foco em fundamentos de segurança, redes, automação e análise de vulnerabilidades.
 
-Here are some ideas to get you started:
+🤖 Paralelamente à graduação, venho me dedicando intensamente ao estudo de **Inteligência Artificial**, área pela qual sou profundamente apaixonada e onde concentro meus projetos práticos e pesquisas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+Tenho como objetivo unir **segurança cibernética e inteligência artificial**, explorando o uso de IA para automação, tomada de decisão, análise de dados e criação de agentes inteligentes aplicados a problemas reais.
+
+Acredito que a IA será cada vez mais essencial para soluções modernas de segurança, eficiência operacional e escalabilidade.
+
+---
+
+## 🔐 Formação
+- 🎓 Bacharelado em Segurança Cibernética — **4º semestre**
+- 📚 Estudo contínuo em Inteligência Artificial e Automação
+- 🛠️ Aprendizado prático através de projetos reais
+
+---
+
+## 🤖 Principais interesses
+- Agentes de Inteligência Artificial
+- Automação inteligente com n8n
+- IA aplicada à Segurança Cibernética
+- Análise de dados e tomada de decisão
+- Sistemas autônomos e multiagentes
+
+---
+
+## 📌 Projetos em destaque
+- Agentes de IA desenvolvidos com n8n
+- Automação inteligente de processos
+- Integrações entre IA, APIs e sistemas reais
+
+---
+
+🚀 Em constante aprendizado, sempre buscando unir **segurança, inteligência e automação**.
