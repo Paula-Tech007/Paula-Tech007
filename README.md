@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Paula Sabino
 
-🎓 Sou universitária de **Segurança Cibernética**, atualmente no **4º semestre**, com foco em fundamentos de segurança, redes, automação e análise de vulnerabilidades.
+🎓 Sou universitária de **Segurança Cibernética**, atualmente no **5º semestre**, com foco em fundamentos de segurança, redes, automação e análise de vulnerabilidades.
 
 🤖 Paralelamente à graduação, venho me dedicando intensamente ao estudo de **Inteligência Artificial**, área pela qual sou profundamente apaixonada e onde concentro meus projetos práticos e pesquisas.
 
